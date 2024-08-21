@@ -61,7 +61,7 @@
 
 
 # Feedback 
-Since this is very first beta, its expected to have bugs. If you find any, Please report me or if you want to add suggestions, open a new [issue](https://github.com/Runixe786/Catppuccin-setup/issues/new) or text me in Telegram [@MaybeSahil](https://t.me/MaybeSahil)
+Since this is very first beta, its expected to have bugs. If you find any, Please report me or if you want to add suggestions, open a new [issue](https://github.com/Runixe786/MD3-Windows/issues/new) or text me in Telegram [@MaybeSahil](https://t.me/MaybeSahil)
 
 **Do star this repo to show your support and share as well, means a lot**. Thanks, see yaa 💝
 
