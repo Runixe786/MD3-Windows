@@ -44,13 +44,15 @@
 
 # Installation
 
-1. Install/ Update [Rainmeter for Windows](https://www.rainmeter.net/).
-2. Download the [latest release of MD3-Windows](https://github.com/Runixe786/MD3-Windows/releases/latest).
-3. Double click the downloaded `.rmskin` file and it should open the skin install dialog.
+1. First install [webnowplayingredux.rmskin](https://github.com/keifufu/WebNowPlaying-Rainmeter/releases/download/2.0.7/WebNowPlayingRedux_2.0.7.rmskin) and [meterial-you.rmskin](https://github.com/Reallukeisbest/meterial-you/releases/download/v1.0.0/Meterial.You_1.0.0.rmskin) as these are the main plugins needed for this skin. 
+
+2. Install/ Update [Rainmeter for Windows](https://www.rainmeter.net/).
+3. Download the [latest release of MD3-Windows](https://github.com/Runixe786/MD3-Windows/releases/latest).
+4. Double click the downloaded `.rmskin` file and it should open the skin install dialog.
    > If you have a portable Rainmeter install, your file may not open by default by the skin installer. If so, open the `.rmskin` file with the `SkinInstaller.exe` file in the Rainmeter install directory.<br>
    > ![Untitled-1 Large](https://github.com/user-attachments/assets/799a7b9f-bff5-49c1-aa91-d9741b86abbd)
 
-4. Continue with on screen options and you are done! In case your skin didn't load on install, open Rainmeter skin manager and manually load the skin and layouts.
+5. Continue with on screen options and you are done! In case your skin didn't load on install, open Rainmeter skin manager and manually load the skin and layouts.
    > ![SkinInstaller_IEwbSMPiNM Medium](https://github.com/user-attachments/assets/a48c39c7-5ac3-48f7-b669-484387b25e07)
 
 
