@@ -42,13 +42,26 @@
 - **Battery**: Displays current battery level of your pc, along with your name.
 - **Folder**: Various tools option including wifi, bluetooth, downloads, docs and pictures. 
 
+# Installation
+
+1. Install/ Update [Rainmeter for Windows](https://www.rainmeter.net/).
+2. Download the [latest release of MD3-Windows](https://github.com/Runixe786/MD3-Windows/releases/latest).
+3. Double click the downloaded `.rmskin` file and it should open the skin install dialog.
+   > If you have a portable Rainmeter install, your file may not open by default by the skin installer. If so, open the `.rmskin` file with the `SkinInstaller.exe` file in the Rainmeter install directory.<br>
+   > ![Untitled-1 Large](https://github.com/user-attachments/assets/799a7b9f-bff5-49c1-aa91-d9741b86abbd)
+
+4. Continue with on screen options and you are done! In case your skin didn't load on install, open Rainmeter skin manager and manually load the skin and layouts.
+   > ![SkinInstaller_IEwbSMPiNM Medium](https://github.com/user-attachments/assets/a48c39c7-5ac3-48f7-b669-484387b25e07)
+
+
+
 # Important Notes
 
 - **Weather**: right click on widget and edit variables file where you have to put your own co-ordinates of latitude and langitude to have it work ing
 - **Folder**: edit the skins ini files, put your own location of documents, downloads and pictures for the widget to work correctly
   <br> </br>
 - **Sizing**: DO NOT TRY TO RESIZE WIDGETS BY EDITING SKIN FILES OR VARIABLE FILES, THIS SKIN IS IN BETA AND MIGHT BREAK YOUR WIDGET.
-- **Colors**: This skin only works well when your pc/desktop/laptop is in dark mode. i made light and dark themes of widgets with dark mode on. This is a small mistake from my side, i will fix it in later versions and will provide a seprate skin for that. 
+- **Colors**: This skin only works well when your pc/desktop/laptop is in dark mode. i made light and dark themes of widgets with dark mode on. This is a small mistake from my side, i will fix it in later versions and will provide a seprate skin for that.
 
 # Screensots
 
