@@ -58,3 +58,13 @@
   <img src='https://graph.org/file/2ff465f67cafb7684e20e.jpg' width='700'>
   <img src='https://graph.org/file/e9f622db77117a3100dca.jpg' width='700'>
 </p>
+
+
+# Feedback 
+Since this is very first beta, its expected to have bugs. If you find any, Please report me or if you want to add suggestions, open a new [issue](https://github.com/Runixe786/Catppuccin-setup/issues/new) or text me in Telegram [@MaybeSahil](https://t.me/MaybeSahil)
+
+**Do star this repo to show your support and share as well, means a lot**. Thanks, see yaa 💝
+
+<p align="center">
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+</p>
