@@ -47,7 +47,8 @@
 - **Weather**: right click on widget and edit variables file where you have to put your own co-ordinates of latitude and langitude to have it work ing
 - **Folder**: edit the skins ini files, put your own location of documents, downloads and pictures for the widget to work correctly
   <br> </br>
-- **General**: DO NOT TRY TO RESIZE WIDGETS BY EDITING SKIN FILES OR VARIABLE FILES, THIS SKIN IS IN BETA AND MIGHT BREAK YOUR WIDGET.
+- **Sizing**: DO NOT TRY TO RESIZE WIDGETS BY EDITING SKIN FILES OR VARIABLE FILES, THIS SKIN IS IN BETA AND MIGHT BREAK YOUR WIDGET.
+- **Colors**: This skin only works well when your pc/desktop/laptop is in dark mode. i made light and dark themes of widgets with dark mode on. This is a small mistake from my side, i will fix it in later versions and will provide a seprate skin for that. 
 
 # Screensots
 
