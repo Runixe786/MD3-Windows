@@ -44,7 +44,7 @@
 
 # Installation
 
-1. First install [webnowplayingredux.rmskin](https://github.com/keifufu/WebNowPlaying-Rainmeter/releases/download/2.0.7/WebNowPlayingRedux_2.0.7.rmskin) and [meterial-you.rmskin](https://github.com/Reallukeisbest/meterial-you/releases/download/v1.0.0/Meterial.You_1.0.0.rmskin) as these are the main plugins needed for this skin. 
+1. First install [webnowplayingredux.rmskin](https://github.com/keifufu/WebNowPlaying-Rainmeter/releases/download/2.0.7/WebNowPlayingRedux_2.0.7.rmskin) and [meterial-you.rmskin](https://github.com/Reallukeisbest/meterial-you/releases/download/v1.0.0/Meterial.You_1.0.0.rmskin) as these are the main plugins needed for this skin **(NOT REQUIRED IF YOU ARE ON BETA 2 OR ABOVE)**
 
 2. Install/ Update [Rainmeter for Windows](https://www.rainmeter.net/).
 3. Download the [latest release of MD3-Windows](https://github.com/Runixe786/MD3-Windows/releases/latest).
