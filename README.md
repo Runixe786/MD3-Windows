@@ -35,12 +35,37 @@
 
 # Features
 
-- **Clock:** shows time of your region, 3 styles available.
-- **Date:** shows current date, 2 styles available.
-- **Weather**: shows weather of your location, 1 style available.
-- **Music**: Displays current music playing along with album art, song and artist name.
-- **Battery**: Displays current battery level of your pc, along with your name.
-- **Folder**: Various tools option including wifi, bluetooth, downloads, docs and pictures. 
+- **Clock:** shows time of your region, 5 styles available in pro, 4 in basic.
+- **Date:** shows current date, 2 styles available in both pro and basic
+- **Weather**: shows weather of your location, 2 style available in both pro and basic
+- **Music**: Displays current music playing along with album art, song and artist name. 4 styles available in pro, 2 in basic
+- **Battery**: Displays current battery level of your pc, along with your name. 1 style available in both pro and basic
+- **Folder**: Various tools option including wifi, bluetooth, downloads, docs and pictures. 1 style available in both pro and basic
+- **Events**: SHows upcoming holiday events along with their dates and time. 2 styles available in pro, 1 in basic
+- **Taskbar**: A custom material you inspired taskbar to fit the overall aesthetics. 2 styles available in pro, 1 in basic
+- **Start Menu**: a custom material you start menu to replace boring default one. 1 style available in pro, 0 in basic
+- **Power Menu**: a custom material you power menu to ease out your way to shut down computer. 1 style available in pro, 0 in basic
+- **Tools Menu**: a custom material you tools menu with useful quick tiles/settings replacing your windows+A key. 1 style available in pro, 0 in basic.
+
+# Screensots
+
+<p align="center">
+  <img src='https://envs.sh/0M7.jpg' width='700'>
+  <img src='https://envs.sh/0MJ.jpg' width='700'>
+  <img src='https://envs.sh/0Mo.jpg' width='700'>
+  <img src='https://envs.sh/0Ms.jpg' width='700'>
+  <img src='https://envs.sh/0M9.jpg' width='700'>
+  <img src='https://envs.sh/0MN.jpg' width='700'>
+</p>
+
+# Important Notes
+
+- **Weather**: right click on widget and edit variables file where you have to put your own co-ordinates of latitude and langitude to have it work ing
+- **Folder**: edit the skins ini files, put your own location of documents, downloads and pictures for the widget to work correctly
+- **Events**: Edit the line 21 where you have to put your own country calendar events ics link, use claude for this, send that link and ask it to give you back your country events ics link
+  <br> </br>
+- **Sizing**: DO NOT TRY TO RESIZE WIDGETS BY EDITING SKIN FILES OR VARIABLE FILES, THIS SKIN IS IN BETA AND MIGHT BREAK YOUR WIDGET.
+- **Colors**: This skin only works well when your pc/desktop/laptop is in dark mode. i made light and dark themes of widgets with dark mode on. This is a small mistake from my side, i will fix it in later versions and will provide a seprate skin for that.
 
 # Installation
 
@@ -54,27 +79,6 @@
 
 5. Continue with on screen options and you are done! In case your skin didn't load on install, open Rainmeter skin manager and manually load the skin and layouts.
    > ![SkinInstaller_IEwbSMPiNM Medium](https://github.com/user-attachments/assets/a48c39c7-5ac3-48f7-b669-484387b25e07)
-
-
-
-# Important Notes
-
-- **Weather**: right click on widget and edit variables file where you have to put your own co-ordinates of latitude and langitude to have it work ing
-- **Folder**: edit the skins ini files, put your own location of documents, downloads and pictures for the widget to work correctly
-  <br> </br>
-- **Sizing**: DO NOT TRY TO RESIZE WIDGETS BY EDITING SKIN FILES OR VARIABLE FILES, THIS SKIN IS IN BETA AND MIGHT BREAK YOUR WIDGET.
-- **Colors**: This skin only works well when your pc/desktop/laptop is in dark mode. i made light and dark themes of widgets with dark mode on. This is a small mistake from my side, i will fix it in later versions and will provide a seprate skin for that.
-
-# Screensots
-
-<p align="center">
-  <img src='https://graph.org/file/79ae02512c6ce97326390.jpg' width='700'>
-  <img src='https://graph.org/file/f74ec849e802f2080c391.jpg' width='700'>
-  <img src='https://graph.org/file/865f998f8c86a019c3c3b.jpg' width='700'>
-  <img src='https://graph.org/file/2ff465f67cafb7684e20e.jpg' width='700'>
-  <img src='https://graph.org/file/e9f622db77117a3100dca.jpg' width='700'>
-</p>
-
 
 # Feedback 
 Since this is very first beta, its expected to have bugs. If you find any, Please report me or if you want to add suggestions, open a new [issue](https://github.com/Runixe786/MD3-Windows/issues/new) or text me in Telegram [@MaybeSahil](https://t.me/MaybeSahil)
