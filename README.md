@@ -11,7 +11,7 @@
   <b><a href="https://graph.org/%D1%95%CE%B1n%CE%B9%E2%84%93-09-24-6">Get PRO Version directly</a></b> ・
 <a href="https://buymeacoffee.com/sahilseth2S/e/302843">Get PRO Version on BMC</a> 
 <br> </br>
-<p align="center"> <a href="https://github.com/runixe786/MD3-Windows/releases/0.2-PublicBeta">Download Basic Version</a>
+<p align="center"> <a href="https://github.com/Runixe786/MD3-Windows/releases/tag/v0.2-Publicbeta">Download Basic Version</a>
  
 
 <br> </br>
