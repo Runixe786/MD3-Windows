@@ -11,7 +11,7 @@
   <b><a href="https://telegra.ph/Pro-Membership-09-24">Get PRO Version directly</a></b> ・
 <a href="https://buymeacoffee.com/sahilseth2S/e/302843">Get PRO Version on BMC</a> 
 <br> </br>
-<p align="center"> <a href="https://github.com/Runixe786/MD3-Windows/releases/tag/v0.2-Publicbeta">Download Basic Version</a>
+<p align="center"> <a href="https://github.com/Runixe786/MD3-Windows/releases/tag/v0.3-PublicBeta">Download Basic Version</a>
  
 
 <br> </br>
