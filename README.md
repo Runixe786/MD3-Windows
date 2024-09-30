@@ -1,6 +1,6 @@
 
-<img src="images/IMG_2286.PNG#gh-light-mode-only" width="1080" alt="Logo" align="center">
-<img src="images/IMG_2285.PNG#gh-dark-mode-only" width="1080" alt="Logo" align="center">
+<img src="images/MD3 0.3-LIGHT.png#gh-light-mode-only" width="1080" alt="Logo" align="center">
+<img src="images/MD3 0.3-DARK.png#gh-dark-mode-only" width="1080" alt="Logo" align="center">
 
  <h1 align="center">MD3-Windows</h1>
 
@@ -25,8 +25,8 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/DroidDenn">
-    <img src="https://img.shields.io/endpoint?&style=for-the-badge&colorA=363a4f&colorB=ffb6ad&logo=telegram&logoColor=cad3f5&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2FDroidDenn"
+  <a href="https://t.me/RunixeProjects">
+    <img src="https://img.shields.io/endpoint?&style=for-the-badge&colorA=363a4f&colorB=ffb6ad&logo=telegram&logoColor=cad3f5&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2FRunixeProjects"
   alt="Telegram">
 <a href="https://t.me/DroidDiscussion">
     <img src="https://img.shields.io/endpoint?&style=for-the-badge&colorA=363a4f&colorB=abd4ff&logo=telegram&logoColor=cad3f5&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2FDroidDiscussion"
@@ -60,7 +60,7 @@
 - **Events**: SHows upcoming holiday events along with their dates and time. 1 styles available
 - **Taskbar**: A custom material you inspired taskbar to fit the overall aesthetics. 1 styles available
 
-# Screensots
+# Screenshots
 
 <p align="center">
   <img src='https://envs.sh/0M7.jpg' width='700'>
@@ -73,8 +73,7 @@
 
 # Important Notes
 
-- **Weather**: right click on widget and edit variables file where you have to put your own co-ordinates of latitude and langitude to have it work ing
-- **Folder**: edit the skins ini files, put your own location of documents, downloads and pictures for the widget to work correctly
+- **Weather**: right click on widget and edit variables file where you have to put your own co-ordinates of latitude and langitude to have it working
 - **Events**: Edit the line 21 where you have to put your own country calendar events ics link, use claude for this, send that link and ask it to give you back your country events ics link
   <br> </br>
 - **Sizing**: DO NOT TRY TO RESIZE WIDGETS BY EDITING SKIN FILES OR VARIABLE FILES, THIS SKIN IS IN BETA AND MIGHT BREAK YOUR WIDGET.
@@ -94,7 +93,7 @@
    > ![SkinInstaller_IEwbSMPiNM Medium](https://github.com/user-attachments/assets/a48c39c7-5ac3-48f7-b669-484387b25e07)
 
 # Feedback 
-Since this is very first beta, its expected to have bugs. If you find any, Please report me or if you want to add suggestions, open a new [issue](https://github.com/Runixe786/MD3-Windows/issues/new) or text me in Telegram [@MaybeSahil](https://t.me/MaybeSahil)
+Since this project is still in beta, its expected to have bugs. If you find any, Please report me or if you want to add suggestions, open a new [issue](https://github.com/Runixe786/MD3-Windows/issues/new) or text me in Telegram [@MaybeSahil](https://t.me/MaybeSahil)
 
 **Do star this repo to show your support and share as well, means a lot**. Thanks, see yaa 💝
 
