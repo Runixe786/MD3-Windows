@@ -1,0 +1,48 @@
+ 0 : Tornado : Day & Night
+ 1 : Tropical Storm : Day & Night
+ 2 : Hurricane : Day & Night
+ 3 : Strong Storms : Day & Night
+ 4 : Thunderstorms : Day & Night
+ 5 : Rain / Snow : Day & Night
+ 6 : Rain / Sleet : Day & Night
+ 7 : Wintry Mix : Day & Night
+ 8 : Freezing Drizzle : Day & Night
+ 9 : Drizzle : Day & Night
+10 : Freezing Rain : Day & Night
+11 : Showers : Day & Night
+12 : Rain : Day & Night
+13 : Flurries : Day & Night
+14 : Snow Showers : Day & Night
+15 : Blowing / Drifting Snow : Day & Night
+16 : Snow : Day & Night
+17 : Hail : Day & Night
+18 : Sleet : Day & Night
+19 : Blowing Dust / Sandstorm : Day & Night
+20 : Foggy : Day & Night
+21 : Haze : Day & Night
+22 : Smoke : Day & Night
+23 : Breezy : Day & Night
+24 : Windy : Day & Night
+25 : Frigid / Ice Crystals : Day & Night
+26 : Cloudy : Day & Night
+27 : Mostly Cloudy : Night
+28 : Mostly Cloudy : Day
+29 : Partly Cloudy : Night
+30 : Partly Cloudy : Day
+31 : Clear : Night
+32 : Sunny : Day
+33 : Fair / Mostly Clear : Night
+34 : Fair / Mostly Sunny : Day
+35 : Mixed Rain and Hail : Day
+36 : Hot : Day
+37 : Isolated Thunderstorms : Day
+38 : Scattered Thunderstorms : Day
+39 : Scattered Showers : Day
+40 : Heavy Rain : Day & Night
+41 : Scattered Snow Showers : Day
+42 : Heavy Snow : Day & Night
+43 : Blizzard : Day & Night
+44 : Not Available (N/A) : Day & Night
+45 : Scattered Showers : Night
+46 : Scattered Snow Showers : Night
+47 : Scattered Thunderstorms : Night
