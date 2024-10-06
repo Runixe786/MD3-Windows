@@ -36,30 +36,36 @@
     </a>
 </p>
 
-# Features of PRO version
+# Features of MD3 Windows
 
-- **Clock:** shows time of your region, 5 styles available
-- **Date:** shows current date, 2 styles available
-- **Weather**: shows weather of your location, 2 style available
-- **Music**: Displays current music playing along with album art, song and artist name. 4 styles available
-- **Battery**: Displays current battery level of your pc, along with your name. 1 style available
-- **Folder**: Various tools option including wifi, bluetooth, downloads, docs and pictures. 1 style available
-- **Events**: SHows upcoming holiday events along with their dates and time. 2 styles available
-- **Taskbar**: A custom material you inspired taskbar to fit the overall aesthetics. 2 styles available
-- **Start Menu**: a custom material you start menu to replace boring default one. 1 style available
-- **Power Menu**: a custom material you power menu to ease out your way to shut down computer. 1 style available
-- **Tools Menu**: a custom material you tools menu with useful quick tiles/settings replacing your windows+A key. 1 style available
+- **Clock:** shows time of your region.
+- **Date:** shows current date.
+- **Weather**: shows weather of your location.
+- **Music**: Displays current music playing along with album art, song and artist name.
+- **Battery**: Displays current battery level of your pc, along with your name.
+- **Folder**: Various tools option including wifi, bluetooth, downloads, docs and pictures.
+- **Events**: SHows upcoming holiday events along with their dates and time.
+- **Taskbar**: A custom material you inspired taskbar to fit the overall aesthetics.
+- **Start Menu**: a custom material you start menu to replace boring default one.
+- **Power Menu**: a custom material you power menu to ease out your way to shut down computer.
+- **Tools Menu**: a custom material you tools menu with useful quick tiles/settings replacing your windows+A key.
 
-# Features of basic version
 
-- **Clock:** shows time of your region, 4 styles available
-- **Date:** shows current date, 2 styles available
-- **Weather**: shows weather of your location, 2 style available
-- **Music**: Displays current music playing along with album art, song and artist name. 2 styles available
-- **Battery**: Displays current battery level of your pc, along with your name. 1 style available
-- **Folder**: Various tools option including wifi, bluetooth, downloads, docs and pictures. 1 style available
-- **Events**: SHows upcoming holiday events along with their dates and time. 1 styles available
-- **Taskbar**: A custom material you inspired taskbar to fit the overall aesthetics. 1 styles available
+# Comparison of features of PRO and basic version (v0.3)
+
+| Skin      | Basic      | Pro |
+| ------------- | ------------- | ------------- |
+| Clock | 4 styles | 5 styles
+| Battery | 1 style | 1 style
+| Date | 2 styles | 2 styles
+| Events | 1 style | 2 styles
+| Folder | 1 style | 1 style
+| Music | 2 styles | 4 styles 
+| Weather | 2 styles | 2 styles
+| Taskbar | 1 style | 2 styles
+| Start menu | NA | 1 style
+| Power menu | NA | 1 style 
+| Tools menu | NA | 1 style
 
 # Screenshots
 
