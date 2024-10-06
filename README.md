@@ -8,7 +8,7 @@
   Bring Material you on your windows Home screen. This rainmeter skin offers dynamic material you widgets with both light and dark mode support. Auto choses the color from your wallpaper which gives a clean beautiful look to your desktop, as in stock android 12+.
 </div>
 <h3 align="center">
-  <b><a href="https://telegra.ph/Pro-Membership-09-24">Get PRO Version directly</a></b> ・
+  <b><a href="https://telegra.ph/Pro-Membership-10-06">Get PRO Version directly</a></b> ・
 <a href="https://buymeacoffee.com/sahilseth2S/e/302843">Get PRO Version on BMC</a> ・
 <a href="https://maybesahil.gumroad.com/l/pjgrqf">Get PRO Version on Gumroad</a>
 <br> </br>
