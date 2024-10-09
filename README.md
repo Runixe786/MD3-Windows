@@ -9,8 +9,8 @@
 </div>
 <h3 align="center">
   <b><a href="https://telegra.ph/Pro-Membership-10-06">Get PRO Version directly</a></b> ・
-<a href="https://buymeacoffee.com/sahilseth2S/e/302843">Get PRO Version on BMC</a> ・
-<a href="https://maybesahil.gumroad.com/l/pjgrqf">Get PRO Version on Gumroad</a>
+<a href="https://buymeacoffee.com/sahilseth2S/e/314892">Get PRO Version on BMC</a> ・
+<a href="https://maybesahil.gumroad.com/l/MD3-Windows-v4">Get PRO Version on Gumroad</a>
 <br> </br>
 <p align="center"> <a href="https://github.com/Runixe786/MD3-Windows/releases/tag/v0.3-PublicBeta">Download Basic Version</a>
  
