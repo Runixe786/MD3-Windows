@@ -1,6 +1,6 @@
 
-<img src="images/MD3 0.3-LIGHT.png#gh-light-mode-only" width="1080" alt="Logo" align="center">
-<img src="images/MD3 0.3-DARK.png#gh-dark-mode-only" width="1080" alt="Logo" align="center">
+<img src="images/v4-light.png#gh-light-mode-only" width="1080" alt="Logo" align="center">
+<img src="images/v4-dark.png#gh-dark-mode-only" width="1080" alt="Logo" align="center">
 
  <h1 align="center">MD3-Windows</h1>
 
@@ -44,24 +44,26 @@
 - **Music**: Displays current music playing along with album art, song and artist name.
 - **Battery**: Displays current battery level of your pc, along with your name.
 - **Folder**: Various tools option including wifi, bluetooth, downloads, docs and pictures.
-- **Events**: SHows upcoming holiday events along with their dates and time.
+- **Events**: Shows upcoming holiday events along with their dates and time.
+- **Greeting**: Shows day progress, a greet message and quote as per time of the day
 - **Taskbar**: A custom material you inspired taskbar to fit the overall aesthetics.
 - **Start Menu**: a custom material you start menu to replace boring default one.
 - **Power Menu**: a custom material you power menu to ease out your way to shut down computer.
 - **Tools Menu**: a custom material you tools menu with useful quick tiles/settings replacing your windows+A key.
 
 
-# Comparison of features of PRO and basic version (v0.3)
+# Comparison of features of PRO and basic version (v0.4)
 
 | Skin      | Basic      | Pro |
 | ------------- | ------------- | ------------- |
-| Clock | 4 styles | 5 styles
-| Battery | 1 style | 1 style
-| Date | 2 styles | 2 styles
+| Clock | 5 styles | 8 styles
+| Battery | 2 style | 3 style
+| Date | 2 styles | 3 styles
 | Events | 1 style | 2 styles
-| Folder | 1 style | 1 style
+| Folder | 2 style | 2 style
 | Music | 2 styles | 4 styles 
 | Weather | 2 styles | 2 styles
+| Greetings | 1 style | 2 styles
 | Taskbar | 1 style | 2 styles
 | Start menu | NA | 1 style
 | Power menu | NA | 1 style 
@@ -70,33 +72,31 @@
 # Screenshots
 
 <p align="center">
-  <img src='https://envs.sh/0M7.jpg' width='700'>
-  <img src='https://envs.sh/0MJ.jpg' width='700'>
-  <img src='https://envs.sh/0Mo.jpg' width='700'>
-  <img src='https://envs.sh/0Ms.jpg' width='700'>
-  <img src='https://envs.sh/0M9.jpg' width='700'>
-  <img src='https://envs.sh/0MN.jpg' width='700'>
+  <img src='https://envs.sh/nQB.jpg' width='700'>
+  <img src='https://envs.sh/nQn.jpg' width='700'>
+  <img src='https://envs.sh/nQT.jpg' width='700'>
+  <img src='https://envs.sh/nQp.jpg' width='700'>
+  <img src='https://envs.sh/nQ_.jpg' width='700'>
+  <img src='https://envs.sh/nQj.jpg' width='700'>
+  <img src='https://envs.sh/nQA.jpg' width='700'>
 </p>
 
 # Important Notes
 
-- **Weather**: right click on widget and edit variables file where you have to put your own co-ordinates of latitude and langitude to have it working
-- **Events**: Edit the line 21 where you have to put your own country calendar events ics link, use claude for this, send that link and ask it to give you back your country events ics link
+- Notes related to widgets and taskbar are shared in txt file inside the zip, do read them before installing skin.
   <br> </br>
 - **Sizing**: DO NOT TRY TO RESIZE WIDGETS BY EDITING SKIN FILES OR VARIABLE FILES, THIS SKIN IS IN BETA AND MIGHT BREAK YOUR WIDGET.
-- **Colors**: This skin only works well when your pc/desktop/laptop is in dark mode. i made light and dark themes of widgets with dark mode on. This is a small mistake from my side, i will fix it in later versions and will provide a seprate skin for that.
+- **Colors**: This skin only works well when your pc/desktop/laptop is in dark mode. i made light and dark themes of widgets with dark mode on. There is no possibility for skin to work properly in light mode because of the plugin limitation.
 
 # Installation
 
-1. First install [webnowplayingredux.rmskin](https://github.com/keifufu/WebNowPlaying-Rainmeter/releases/download/2.0.7/WebNowPlayingRedux_2.0.7.rmskin) and [meterial-you.rmskin](https://github.com/Reallukeisbest/meterial-you/releases/download/v1.0.0/Meterial.You_1.0.0.rmskin) as these are the main plugins needed for this skin **(NOT REQUIRED IF YOU ARE ON BETA 2 OR ABOVE)**
-
-2. Install/ Update [Rainmeter for Windows](https://www.rainmeter.net/).
-3. Download the [latest release of MD3-Windows](https://github.com/Runixe786/MD3-Windows/releases/latest).
-4. Double click the downloaded `.rmskin` file and it should open the skin install dialog.
+1. Install/ Update [Rainmeter for Windows](https://www.rainmeter.net/).
+2. Download the [latest release of MD3-Windows](https://github.com/Runixe786/MD3-Windows/releases/latest).
+3. Double click the downloaded `.rmskin` file and it should open the skin install dialog.
    > If you have a portable Rainmeter install, your file may not open by default by the skin installer. If so, open the `.rmskin` file with the `SkinInstaller.exe` file in the Rainmeter install directory.<br>
    > ![Untitled-1 Large](https://github.com/user-attachments/assets/799a7b9f-bff5-49c1-aa91-d9741b86abbd)
 
-5. Continue with on screen options and you are done! In case your skin didn't load on install, open Rainmeter skin manager and manually load the skin and layouts.
+4. Continue with on screen options and you are done! In case your skin didn't load on install, open Rainmeter skin manager and manually load the skin and layouts.
    > ![SkinInstaller_IEwbSMPiNM Medium](https://github.com/user-attachments/assets/a48c39c7-5ac3-48f7-b669-484387b25e07)
 
 # Feedback 
