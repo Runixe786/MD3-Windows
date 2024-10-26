@@ -1,6 +1,6 @@
 
-<img src="images/v4-light.png#gh-light-mode-only" width="1080" alt="Logo" align="center">
-<img src="images/v4-dark.png#gh-dark-mode-only" width="1080" alt="Logo" align="center">
+<img src="images/v4p-light.png#gh-light-mode-only" width="1080" alt="Logo" align="center">
+<img src="images/v4p-dark.png#gh-dark-mode-only" width="1080" alt="Logo" align="center">
 
  <h1 align="center">MD3-Windows</h1>
 
@@ -12,7 +12,7 @@
 <a href="https://buymeacoffee.com/sahilseth2S/e/314892">Get PRO Version on BMC</a> ・
 <a href="https://maybesahil.gumroad.com/l/MD3-Windows-v4">Get PRO Version on Gumroad</a>
 <br> </br>
-<p align="center"> <a href="https://github.com/Runixe786/MD3-Windows/releases/tag/v0.3-PublicBeta">Download Basic Version</a>
+<p align="center"> <a href="https://github.com/Runixe786/MD3-Windows/releases/tag/v0.4-PublicBeta">Download Basic Version</a>
  
 
 <br> </br>
@@ -61,7 +61,7 @@
 | Date | 2 styles | 3 styles
 | Events | 1 style | 2 styles
 | Folder | 2 style | 2 style
-| Music | 2 styles | 4 styles 
+| Music | 3 styles | 4 styles 
 | Weather | 2 styles | 2 styles
 | Greetings | 1 style | 2 styles
 | Taskbar | 1 style | 2 styles
