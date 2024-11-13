@@ -46,28 +46,33 @@
 - **Folder**: Various tools option including wifi, bluetooth, downloads, docs and pictures.
 - **Events**: Shows upcoming holiday events along with their dates and time.
 - **Greeting**: Shows day progress, a greet message and quote as per time of the day
+- **Monitor**: shows status of RAM,CPU, HDD and SWAP memory.
+- **Icon pack**: a custom material you icon pack with about 50 icons to make your own customised taskbar. 
 - **Taskbar**: A custom material you inspired taskbar to fit the overall aesthetics.
 - **Start Menu**: a custom material you start menu to replace boring default one.
 - **Power Menu**: a custom material you power menu to ease out your way to shut down computer.
 - **Tools Menu**: a custom material you tools menu with useful quick tiles/settings replacing your windows+A key.
-
+- **Volume bar**: a custom material you volume UI on pressing volume button on taskbar.
+- **popups**: a custom material you pop-up menu when trying to power off or reboot desktop. 
 
 # Comparison of features of PRO and basic version (v0.4)
 
 | Skin      | Basic      | Pro |
 | ------------- | ------------- | ------------- |
-| Clock | 5 styles | 8 styles
+| Clock | 6 styles | 10 styles
 | Battery | 2 style | 3 style
-| Date | 2 styles | 3 styles
+| Date | 3 styles | 4 styles
 | Events | 1 style | 2 styles
 | Folder | 2 style | 2 style
 | Music | 3 styles | 4 styles 
-| Weather | 2 styles | 2 styles
+| Weather | 3 styles | 4 styles
 | Greetings | 1 style | 2 styles
+| Monitor | 2 styles | 4 style
 | Taskbar | 1 style | 2 styles
-| Start menu | NA | 1 style
+| Start menu | NA | 2 styles
 | Power menu | NA | 1 style 
 | Tools menu | NA | 1 style
+| App icons | 47 styles | 47 style
 
 # Screenshots
 
