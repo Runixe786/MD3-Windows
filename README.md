@@ -9,7 +9,7 @@
 </div>
 <h3 align="center">
   <b><a href="https://telegra.ph/Pro-Membership-10-09">Get PRO Version directly</a></b> ・
-<a href="https://buymeacoffee.com/sahilseth2S/e/314892">Get PRO Version on BMC</a> ・
+<a href="https://buymeacoffee.com/sahilseth2S/e/331439">Get PRO Version on BMC</a> ・
 <a href="https://maybesahil.gumroad.com/l/MD3-Windows-v4">Get PRO Version on Gumroad</a>
 <br> </br>
 <p align="center"> <a href="https://github.com/Runixe786/MD3-Windows/releases/tag/v0.4-PublicBeta">Download Basic Version</a>
@@ -77,13 +77,13 @@
 # Screenshots
 
 <p align="center">
-  <img src='https://envs.sh/nQB.jpg' width='700'>
-  <img src='https://envs.sh/nQn.jpg' width='700'>
-  <img src='https://envs.sh/nQT.jpg' width='700'>
+  <img src='https://envs.sh/LeU.jpg' width='700'>
+  <img src='https://envs.sh/Lit.jpg' width='700'>
+  <img src='https://envs.sh/LiI.jpg' width='700'>
   <img src='https://envs.sh/nQp.jpg' width='700'>
   <img src='https://envs.sh/nQ_.jpg' width='700'>
   <img src='https://envs.sh/nQj.jpg' width='700'>
-  <img src='https://envs.sh/nQA.jpg' width='700'>
+  <img src='https://envs.sh/Lia.jpg' width='700'>
 </p>
 
 # Important Notes
