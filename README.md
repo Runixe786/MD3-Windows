@@ -1,6 +1,6 @@
 
-<img src="images/v4p-light.png#gh-light-mode-only" width="1080" alt="Logo" align="center">
-<img src="images/v4p-dark.png#gh-dark-mode-only" width="1080" alt="Logo" align="center">
+<img src="images/v5-light.PNG#gh-light-mode-only" width="1080" alt="Logo" align="center">
+<img src="images/v5-dark.PNG#gh-dark-mode-only" width="1080" alt="Logo" align="center">
 
  <h1 align="center">MD3-Windows</h1>
 
