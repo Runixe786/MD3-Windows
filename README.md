@@ -55,7 +55,7 @@
 - **Volume bar**: a custom material you volume UI on pressing volume button on taskbar.
 - **popups**: a custom material you pop-up menu when trying to power off or reboot desktop. 
 
-# Comparison of features of PRO and basic version (v0.4)
+# Comparison of features of PRO and basic version (v0.5)
 
 | Skin      | Basic      | Pro |
 | ------------- | ------------- | ------------- |
