@@ -14,9 +14,6 @@
 <br> </br>
 <p align="center"> <a href="https://github.com/Runixe786/MD3-Windows/releases/tag/v0.4-PublicBeta">Download Basic Version</a>
  
-
-<br> </br>
-
 <p align="center">
   <a href="https://github.com/catppuccin/catppuccin/stargazers"><img src="https://img.shields.io/github/stars/Runixe786/MD3-Windows?colorA=363a4f&colorB=b7bdf8&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2Ij4KPHBhdGggZD0iTTIzNS4yNCw4NC4zOGwtMjguMDYsMjMuNjgsOC41NiwzNS4zOWExMy4zNCwxMy4zNCwwLDAsMS01LjA5LDEzLjkxLDEzLjU0LDEzLjU0LDAsMCwxLTE1LC42OUwxNjQsMTM5bC0zMS42NSwxOS4wNmExMy41MSwxMy41MSwwLDAsMS0xNS0uNjksMTMuMzIsMTMuMzIsMCwwLDEtNS4xLTEzLjkxbDguNTYtMzUuMzlMOTIuNzYsODQuMzhhMTMuMzksMTMuMzksMCwwLDEsNy42Ni0yMy41OGwzNi45NC0yLjkyLDE0LjIxLTMzLjY2YTEzLjUxLDEzLjUxLDAsMCwxLDI0Ljg2LDBsMTQuMjEsMzMuNjYsMzYuOTQsMi45MmExMy4zOSwxMy4zOSwwLDAsMSw3LjY2LDIzLjU4Wk04OC4xMSwxMTEuODlhOCw4LDAsMCwwLTExLjMyLDBMMTguMzQsMTcwLjM0YTgsOCwwLDAsMCwxMS4zMiwxMS4zMmw1OC40NS01OC40NUE4LDgsMCwwLDAsODguMTEsMTExLjg5Wm0tLjUsNjEuMTlMMzQuMzQsMjI2LjM0YTgsOCwwLDAsMCwxMS4zMiwxMS4zMmw1My4yNi01My4yN2E4LDgsMCwwLDAtMTEuMzEtMTEuMzFabTczLTEtNTQuMjksNTQuMjhhOCw4LDAsMCwwLDExLjMyLDExLjMybDU0LjI4LTU0LjI4YTgsOCwwLDAsMC0xMS4zMS0xMS4zMloiIHN0eWxlPSJmaWxsOiAjQ0FEM0Y1OyIvPgo8L3N2Zz4="></a>
   <a href="https://github.com/Runixe786/MD3-Windows/releases/latest"><img src="https://img.shields.io/github/v/release/Runixe786/MD3-Windows?colorA=363a4f&colorB=a6da95&style=for-the-badge&logo=github&logoColor=cad3f5"></a>
@@ -76,20 +73,50 @@
 
 # Screenshots
 
-<p align="center">
-  <img src='https://envs.sh/LeU.jpg' width='700'>
-  <img src='https://envs.sh/Lit.jpg' width='700'>
-  <img src='https://envs.sh/LiI.jpg' width='700'>
-  <img src='https://envs.sh/nQp.jpg' width='700'>
-  <img src='https://envs.sh/nQ_.jpg' width='700'>
-  <img src='https://envs.sh/nQj.jpg' width='700'>
-  <img src='https://envs.sh/Lia.jpg' width='700'>
-</p>
+<table class="table">
+	<tbody>
+		<tr>
+			<td>
+				<img src="https://envs.sh/LeU.jpg"
+					width="100%" alt="MD3-Windows">
+			</td>
+			<td>
+				<img src="https://envs.sh/Lit.jpg"
+					width="100%" alt="MD3-Windows">
+			</td>
+			<td>
+				<img src="https://envs.sh/LiI.jpg"
+					width="100%" alt="MD3-Windows">
+			</td>
+		</tr>
+	</tbody>
+</table>
+<table class="table">
+	<tbody>
+		<tr>
+			<td>
+				<img src="https://envs.sh/nQp.jpg"
+					width="100%" alt="MD3-Windows">
+			</td>
+			<td>
+				<img src="https://envs.sh/nQ_.jpg"
+					width="100%" alt="MD3-Windows">
+			</td>
+			<td>
+				<img src="https://envs.sh/nQj.jpg"
+					width="100%" alt="MD3-Windows">
+			</td>
+			<td>
+				<img src="https://envs.sh/Lia.jpg"
+					width="100%" alt="MD3-Windows">
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 # Important Notes
 
 - Notes related to widgets and taskbar are shared in txt file inside the zip, do read them before installing skin.
-  <br> </br>
 - **Sizing**: DO NOT TRY TO RESIZE WIDGETS BY EDITING SKIN FILES OR VARIABLE FILES, THIS SKIN IS IN BETA AND MIGHT BREAK YOUR WIDGET.
 - **Colors**: This skin only works well when your pc/desktop/laptop is in dark mode. i made light and dark themes of widgets with dark mode on. There is no possibility for skin to work properly in light mode because of the plugin limitation.
 
@@ -100,7 +127,6 @@
 3. Double click the downloaded `.rmskin` file and it should open the skin install dialog.
    > If you have a portable Rainmeter install, your file may not open by default by the skin installer. If so, open the `.rmskin` file with the `SkinInstaller.exe` file in the Rainmeter install directory.<br>
    > ![Untitled-1 Large](https://github.com/user-attachments/assets/799a7b9f-bff5-49c1-aa91-d9741b86abbd)
-
 4. Continue with on screen options and you are done! In case your skin didn't load on install, open Rainmeter skin manager and manually load the skin and layouts.
    > ![SkinInstaller_IEwbSMPiNM Medium](https://github.com/user-attachments/assets/a48c39c7-5ac3-48f7-b669-484387b25e07)
 
