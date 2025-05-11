@@ -77,13 +77,13 @@
 # Screenshots
 
 <p align="center">
-  <img src='Images/ss1.jpg' width='700'>
-  <img src='Images/ss2.jpg' width='700'>
-  <img src='Images/ss3.jpg' width='700'>
-  <img src='Images/ss4.jpg' width='700'>
-  <img src='Images/ss5.jpg' width='700'>
-  <img src='Images/ss6.jpg' width='700'>
-  <img src='Images/ss7.jpg' width='700'>
+  <img src='images/ss1.jpg' width='700'>
+  <img src='images/ss2.jpg' width='700'>
+  <img src='images/ss3.jpg' width='700'>
+  <img src='images/ss4.jpg' width='700'>
+  <img src='images/ss5.jpg' width='700'>
+  <img src='images/ss6.jpg' width='700'>
+  <img src='images/ss7.jpg' width='700'>
 </p>
 
 # Important Notes
