@@ -77,13 +77,13 @@
 # Screenshots
 
 <p align="center">
-  <img src='https://envs.sh/LeU.jpg' width='700'>
-  <img src='https://envs.sh/Lit.jpg' width='700'>
-  <img src='https://envs.sh/LiI.jpg' width='700'>
-  <img src='https://envs.sh/nQp.jpg' width='700'>
-  <img src='https://envs.sh/nQ_.jpg' width='700'>
-  <img src='https://envs.sh/nQj.jpg' width='700'>
-  <img src='https://envs.sh/Lia.jpg' width='700'>
+  <img src='Images/ss1.jpg' width='700'>
+  <img src='Images/ss2.jpg' width='700'>
+  <img src='Images/ss3.jpg' width='700'>
+  <img src='Images/ss4.jpg' width='700'>
+  <img src='Images/ss5.jpg' width='700'>
+  <img src='Images/ss6.jpg' width='700'>
+  <img src='Images/ss7.jpg' width='700'>
 </p>
 
 # Important Notes
