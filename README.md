@@ -110,5 +110,10 @@ Since this project is still in beta, its expected to have bugs. If you find any,
 **Do star this repo to show your support and share as well, means a lot**. Thanks, see yaa 💝
 
 <p align="center">
+  
+# Sponsors
+A big thanks to following organisations/people for sponsoring us. Do check them out:
+[VGTopup](https://vgtopup.com/) - Your trusted destination for game top-ups and live app recharges. Instant delivery, secure payments, and the best prices guaranteed.
+
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 </p>
